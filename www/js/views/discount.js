@@ -12,4 +12,6 @@
 		}
 	});
 
+	var view = new App.Views.Discount;
+
 })(jQuery);
