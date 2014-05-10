@@ -20,6 +20,7 @@
 /Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/img \
 /Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/index.html \
 /Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/js \
+/Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/plugins \
 /Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/css/bootstrap.css.map \
 /Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/css/bootstrap.min.css \
 /Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/css/jquery.mobile.css \
@@ -40,4 +41,12 @@
 /Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/js/lib/underscore-min.js \
 /Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/js/models/discount.js \
 /Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/js/views/discount.js \
+/Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/plugins/org.apache.cordova.dialogs \
+/Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/plugins/org.apache.cordova.vibration \
+/Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www \
+/Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/android \
+/Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/notification.js \
+/Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/android/notification.js \
+/Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/plugins/org.apache.cordova.vibration/www \
+/Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/assets/www/plugins/org.apache.cordova.vibration/www/vibration.js \
 /Users/binoypatel14/Documents/Five_Tech/discount-tax-calculator/platforms/android/ant-build/AndroidManifest.xml \
