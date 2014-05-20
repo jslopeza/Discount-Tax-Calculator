@@ -74,3 +74,119 @@ objc[36788]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.a
 2014-05-09 21:18:32.189 Price Calculator[36788:70b] THREAD WARNING: ['Notification'] took '140.222168' ms. Plugin should use a background thread.
 2014-05-09 21:18:39.273 Price Calculator[36788:70b] Resetting plugins due to page load.
 2014-05-09 21:18:39.392 Price Calculator[36788:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+objc[51213]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-10 13:22:46.824 Price Calculator[51213:70b] Cannot find executable for CFBundle 0xa56b2f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-10 13:22:46.829 Price Calculator[51213:70b] Cannot find executable for CFBundle 0xa457a20 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-10 13:22:46.856 Price Calculator[51213:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 13:22:47.117 Price Calculator[51213:70b] Unlimited access to network resources
+2014-05-10 13:22:53.979 Price Calculator[51213:70b] Resetting plugins due to page load.
+2014-05-10 13:22:55.222 Price Calculator[51213:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:23:24.824 Price Calculator[51213:70b] THREAD WARNING: ['Notification'] took '20.751953' ms. Plugin should use a background thread.
+2014-05-10 13:23:26.054 Price Calculator[51213:70b] Resetting plugins due to page load.
+2014-05-10 13:23:26.180 Price Calculator[51213:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:23:32.626 Price Calculator[51213:70b] THREAD WARNING: ['Notification'] took '147.863037' ms. Plugin should use a background thread.
+2014-05-10 13:23:41.838 Price Calculator[51213:70b] Resetting plugins due to page load.
+2014-05-10 13:23:41.963 Price Calculator[51213:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+objc[51412]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-10 13:24:46.082 Price Calculator[51412:70b] Cannot find executable for CFBundle 0xb98aa10 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-10 13:24:46.088 Price Calculator[51412:70b] Cannot find executable for CFBundle 0xa2df490 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-10 13:24:46.188 Price Calculator[51412:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 13:24:46.194 Price Calculator[51412:70b] Unlimited access to network resources
+2014-05-10 13:24:46.380 Price Calculator[51412:70b] Resetting plugins due to page load.
+2014-05-10 13:24:46.523 Price Calculator[51412:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:26:05.196 Price Calculator[51412:70b] THREAD WARNING: ['Notification'] took '65.443115' ms. Plugin should use a background thread.
+2014-05-10 13:26:09.113 Price Calculator[51412:70b] Resetting plugins due to page load.
+2014-05-10 13:26:09.520 Price Calculator[51412:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+objc[52036]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-10 13:36:18.205 Price Calculator[52036:70b] Cannot find executable for CFBundle 0xb8a1000 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-10 13:36:18.211 Price Calculator[52036:70b] Cannot find executable for CFBundle 0xa2d0270 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-10 13:36:18.235 Price Calculator[52036:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 13:36:18.241 Price Calculator[52036:70b] Unlimited access to network resources
+2014-05-10 13:36:18.299 Price Calculator[52036:70b] Resetting plugins due to page load.
+2014-05-10 13:36:18.447 Price Calculator[52036:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:38:18.850 Price Calculator[52036:70b] THREAD WARNING: ['Notification'] took '47.369873' ms. Plugin should use a background thread.
+2014-05-10 13:38:20.446 Price Calculator[52036:70b] Resetting plugins due to page load.
+2014-05-10 13:38:20.890 Price Calculator[52036:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:38:25.710 Price Calculator[52036:70b] THREAD WARNING: ['Notification'] took '137.415283' ms. Plugin should use a background thread.
+2014-05-10 13:38:26.772 Price Calculator[52036:70b] Resetting plugins due to page load.
+2014-05-10 13:38:26.892 Price Calculator[52036:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:38:36.110 Price Calculator[52036:70b] THREAD WARNING: ['Notification'] took '39.511963' ms. Plugin should use a background thread.
+2014-05-10 13:38:39.387 Price Calculator[52036:70b] Resetting plugins due to page load.
+2014-05-10 13:38:39.834 Price Calculator[52036:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:38:45.880 Price Calculator[52036:70b] THREAD WARNING: ['Notification'] took '80.215088' ms. Plugin should use a background thread.
+2014-05-10 13:38:47.742 Price Calculator[52036:70b] Resetting plugins due to page load.
+2014-05-10 13:38:48.160 Price Calculator[52036:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:38:54.625 Price Calculator[52036:70b] THREAD WARNING: ['Notification'] took '65.479980' ms. Plugin should use a background thread.
+2014-05-10 13:38:56.473 Price Calculator[52036:70b] Resetting plugins due to page load.
+2014-05-10 13:38:56.932 Price Calculator[52036:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:39:04.866 Price Calculator[52036:70b] THREAD WARNING: ['Notification'] took '41.513916' ms. Plugin should use a background thread.
+2014-05-10 13:39:13.468 Price Calculator[52036:70b] Resetting plugins due to page load.
+2014-05-10 13:39:13.880 Price Calculator[52036:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:39:23.176 Price Calculator[52036:70b] THREAD WARNING: ['Notification'] took '39.446289' ms. Plugin should use a background thread.
+2014-05-10 13:39:24.705 Price Calculator[52036:70b] Resetting plugins due to page load.
+2014-05-10 13:39:25.192 Price Calculator[52036:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:39:34.869 Price Calculator[52036:70b] THREAD WARNING: ['Notification'] took '77.761963' ms. Plugin should use a background thread.
+2014-05-10 13:39:36.483 Price Calculator[52036:70b] Resetting plugins due to page load.
+2014-05-10 13:39:36.959 Price Calculator[52036:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+objc[52352]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-10 13:40:47.006 Price Calculator[52352:70b] Cannot find executable for CFBundle 0xa553c80 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-10 13:40:47.011 Price Calculator[52352:70b] Cannot find executable for CFBundle 0xc0a06b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-10 13:40:47.232 Price Calculator[52352:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 13:40:47.238 Price Calculator[52352:70b] Unlimited access to network resources
+2014-05-10 13:40:47.626 Price Calculator[52352:70b] Resetting plugins due to page load.
+2014-05-10 13:40:48.006 Price Calculator[52352:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:41:08.098 Price Calculator[52352:70b] THREAD WARNING: ['Notification'] took '43.329834' ms. Plugin should use a background thread.
+2014-05-10 13:41:09.901 Price Calculator[52352:70b] Resetting plugins due to page load.
+2014-05-10 13:41:10.357 Price Calculator[52352:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:41:30.266 Price Calculator[52352:70b] THREAD WARNING: ['Notification'] took '69.621094' ms. Plugin should use a background thread.
+2014-05-10 13:41:31.648 Price Calculator[52352:70b] Resetting plugins due to page load.
+2014-05-10 13:41:32.173 Price Calculator[52352:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:42:22.968 Price Calculator[52352:70b] THREAD WARNING: ['Notification'] took '66.748291' ms. Plugin should use a background thread.
+2014-05-10 13:42:24.580 Price Calculator[52352:70b] Resetting plugins due to page load.
+2014-05-10 13:42:25.006 Price Calculator[52352:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:42:29.301 Price Calculator[52352:70b] THREAD WARNING: ['Notification'] took '33.944092' ms. Plugin should use a background thread.
+2014-05-10 13:42:33.833 Price Calculator[52352:70b] Resetting plugins due to page load.
+2014-05-10 13:42:34.293 Price Calculator[52352:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+objc[52578]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-10 13:43:10.608 Price Calculator[52578:70b] Cannot find executable for CFBundle 0xa41de60 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-10 13:43:10.613 Price Calculator[52578:70b] Cannot find executable for CFBundle 0xa445630 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-10 13:43:10.638 Price Calculator[52578:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 13:43:10.643 Price Calculator[52578:70b] Unlimited access to network resources
+2014-05-10 13:43:10.704 Price Calculator[52578:70b] Resetting plugins due to page load.
+2014-05-10 13:43:10.847 Price Calculator[52578:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:43:20.211 Price Calculator[52578:70b] THREAD WARNING: ['Notification'] took '38.631104' ms. Plugin should use a background thread.
+2014-05-10 13:43:21.525 Price Calculator[52578:70b] Resetting plugins due to page load.
+2014-05-10 13:43:22.010 Price Calculator[52578:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:43:26.196 Price Calculator[52578:70b] THREAD WARNING: ['Notification'] took '80.616943' ms. Plugin should use a background thread.
+2014-05-10 13:43:27.285 Price Calculator[52578:70b] Resetting plugins due to page load.
+2014-05-10 13:43:27.777 Price Calculator[52578:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+objc[52918]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-10 13:45:34.375 Price Calculator[52918:70b] Cannot find executable for CFBundle 0xa2b1940 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-10 13:45:34.381 Price Calculator[52918:70b] Cannot find executable for CFBundle 0xa2ced70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-10 13:45:34.457 Price Calculator[52918:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 13:45:34.464 Price Calculator[52918:70b] Unlimited access to network resources
+2014-05-10 13:45:34.660 Price Calculator[52918:70b] Resetting plugins due to page load.
+2014-05-10 13:45:34.830 Price Calculator[52918:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:46:15.306 Price Calculator[52918:70b] THREAD WARNING: ['Notification'] took '39.817871' ms. Plugin should use a background thread.
+2014-05-10 13:46:16.581 Price Calculator[52918:70b] Resetting plugins due to page load.
+2014-05-10 13:46:17.169 Price Calculator[52918:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:46:21.021 Price Calculator[52918:70b] THREAD WARNING: ['Notification'] took '75.281982' ms. Plugin should use a background thread.
+2014-05-10 13:46:22.365 Price Calculator[52918:70b] Resetting plugins due to page load.
+2014-05-10 13:46:22.826 Price Calculator[52918:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:47:00.663 Price Calculator[52918:70b] THREAD WARNING: ['Notification'] took '38.334961' ms. Plugin should use a background thread.
+2014-05-10 13:47:01.951 Price Calculator[52918:70b] Resetting plugins due to page load.
+2014-05-10 13:47:02.540 Price Calculator[52918:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:47:11.221 Price Calculator[52918:70b] THREAD WARNING: ['Notification'] took '133.393311' ms. Plugin should use a background thread.
+2014-05-10 13:47:12.294 Price Calculator[52918:70b] Resetting plugins due to page load.
+2014-05-10 13:47:12.417 Price Calculator[52918:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:47:23.215 Price Calculator[52918:70b] THREAD WARNING: ['Notification'] took '164.601807' ms. Plugin should use a background thread.
+2014-05-10 13:47:24.495 Price Calculator[52918:70b] Resetting plugins due to page load.
+2014-05-10 13:47:24.602 Price Calculator[52918:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+2014-05-10 13:47:30.998 Price Calculator[52918:70b] THREAD WARNING: ['Notification'] took '165.443848' ms. Plugin should use a background thread.
+2014-05-10 13:47:32.696 Price Calculator[52918:70b] Resetting plugins due to page load.
+2014-05-10 13:47:32.812 Price Calculator[52918:70b] Finished load of: file:///Users/binoypatel14/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/E4400E71-51E6-468B-9E32-686BF1E1769A/Price%20Calculator.app/www/index.html
+objc[27580]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-20 16:04:47.760 Price Calculator[27580:70b] Cannot find executable for CFBundle 0xa32f040 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-20 16:04:47.766 Price Calculator[27580:70b] Cannot find executable for CFBundle 0xa24f980 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-20 16:04:48.277 Price Calculator[27580:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-20 16:04:48.316 Price Calculator[27580:70b] Unlimited access to network resources

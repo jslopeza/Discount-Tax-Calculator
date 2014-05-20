@@ -24,29 +24,45 @@
 			var finalPrice = discountPrice + tax;
 			
 			var Model = new App.Models.Discount
-			if(!inputTax){
-				Model.set({price : price, discount : discount, discountPrice : discountPrice, finalPrice : discountPrice});
-			} 
-			else if(!discount){
-				Model.set({price : price, tax : tax, taxPrice : taxPrice, finalPrice : taxPrice});	
+			if($.isNumeric(price)){
+
+				if($.isNumeric(inputTax) || $.isNumeric(discount)){
+
+					if(!inputTax){
+						Model.set({price : price, discount : discount, discountPrice : discountPrice, finalPrice : discountPrice});
+					} 
+					else if(!discount){
+						Model.set({price : price, tax : tax, taxPrice : taxPrice, finalPrice : taxPrice});	
+					}
+					else {
+						Model.set({price : price, discount : discount, discountPrice : discountPrice, tax : tax, taxPrice : taxPrice, finalPrice : finalPrice});		
+					}
+
+					navigator.notification.vibrate(1500);
+					navigator.notification.alert(
+						'Discount Price : $' + Model.get('discountPrice') + 
+						'\nTax : $' + Model.get('tax') +
+						'\nTax Price : $' + Model.get('taxPrice') +
+						'\nFinal Price : $' + Model.get('finalPrice'),
+						alertDismissed,
+						'Final Price',
+						'Done'
+					);
+					function alertDismissed(){
+						location.reload();
+					}
+				}
 			}
 			else {
-				Model.set({price : price, discount : discount, discountPrice : discountPrice, tax : tax, taxPrice : taxPrice, finalPrice : finalPrice});		
-			}
-			
-			console.log(Model.toJSON());
-			navigator.notification.vibrate(1500);
-			navigator.notification.alert(
-				'Discount Price : $' + Model.get('discountPrice') + 
-				'\nTax : $' + Model.get('tax') +
-				'\nTax Price : $' + Model.get('taxPrice') +
-				'\nFinal Price : $' + Model.get('finalPrice'),
-				alertDismissed,
-				'Final Price',
-				'Done'
-			);
-			function alertDismissed(){
-				location.reload();
+				navigator.notification.alert(
+					'The input was not valid, Please try again',
+					alertDismissed,
+					'Error!',
+					'Try Again'
+				);
+				function alertDismissed(){
+					location.reload();
+				}
 			}
 		}
 	});
